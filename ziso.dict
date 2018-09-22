@@ -1,0 +1,841 @@
+'bout B AW T
+'cause K AH Z
+'course K AO R S
+'cuse K Y UW Z
+'em AH M
+'frisco F R IH S K OW
+'gain G EH N
+'kay K EY
+'m AH M
+'n AH N
+'round R AW N D
+'s EH S
+'til T IH L
+'tis T IH Z
+'twas T W AH Z
+event IH V EH N T
+finish F IH N IH SH
+animal AE N AH M AH L
+cat K AE T
+cat2 K AE T T UW
+cat3 K AE T TH R IY
+cat4 K AE T F AO R
+dog D AO G
+egg EH G
+orange AO R AH N JH
+orange2 AO R IH N JH
+bike B AY K
+car K AA R
+bus B AH S
+train T R EY N
+pen P EH N
+notebook N OW T B UH K
+chair CH EH R
+desk D EH S K
+ball B AO L
+box B AA K S
+cap K AE P
+bag B AE G
+picture P IH K CH ER
+camera K AE M ER AH
+camera2 K AE M R AH
+computer K AH M P Y UW T ER
+guitar G IH T AA R
+piano P IY AE N OW
+piano2 P IY AE N AH
+door D AO R
+window W IH N D OW
+bed B EH D
+kitchen K IH CH AH N
+tree T R IY
+house HH AW S
+home HH OW M
+people P IY P AH L
+man M AE N
+woman W UH M AH N
+player P L EY ER
+family F AE M AH L IY
+family2 F AE M L IY
+mother M AH DH ER
+father F AA DH ER
+sister S IH S T ER
+brother B R AH DH ER
+teacher T IY CH ER
+student S T UW D AH N T
+friend F R EH N D
+station S T EY SH AH N
+school S K UW L
+park P AA R K
+sport S P AO R T
+soccer S AA K ER
+baseball B EY S B AO L
+tennis T EH N AH S
+tennis2 T EH N IH S
+basketball B AE S K AH T B AO L
+breakfast B R EH K F AH S T
+lunch L AH N CH
+dinner D IH N ER
+math M AE TH
+science S AY AH N S
+music M Y UW Z IH K
+homework HH OW M W ER K
+question K W EH S CH AH N
+question2 K W EH SH AH N
+country K AH N T R IY
+hair HH EH R
+name N EY M
+class K L AE S
+season S IY Z AH N
+spring S P R IH NG
+spring2 S P ER IH NG
+summer S AH M ER
+fall F AO L
+fall2 F AA L
+winter W IH N T ER
+morning M AO R N IH NG
+afternoon AE F T ER N UW N
+noon N UW N
+evening IY V N IH NG
+night N AY T
+weather W EH DH ER
+rain R EY N
+snow S N OW
+dream D R IY M
+fun F AH N
+town T AW N
+city S IH T IY
+birthday B ER TH D EY
+time T AY M
+minute M IH N AH T
+minute2 M AY N UW T
+minute3 M AY N Y UW T
+week W IY K
+day D EY
+year Y IH R
+month M AH N TH
+date D EY T
+first F ER S T
+second S EH K AH N D
+third TH ER D
+this DH IH S
+this DH IH S
+that DH AE T
+that2 DH AH T
+we W IY
+you Y UW
+he HH IY
+she SH IY
+it IH T
+they DH EY
+my M AY
+our AW ER
+our2 AW R
+our3 AA R
+your Y AO R
+your2 Y UH R
+his HH IH Z
+her HH ER
+its IH T S
+its IH T S
+their DH EH R
+me M IY
+us Y UW Z
+us Y UW Z
+us Y UW Z
+us Y UW EH S
+us AH S
+us2 Y UW EH S
+you Y UW
+him HH IH M
+him2 IH M
+her HH ER
+it IH T
+them DH EH M
+them2 DH AH M
+mine M AY N
+ours AW ER Z
+ours2 AA R Z
+ours3 AW R Z
+yours Y UH R Z
+yours2 Y AO R Z
+yours3 Y ER Z
+his HH IH Z
+hers HH ER Z
+hers HH ER Z
+theirs DH EH R Z
+these DH IY Z
+those DH OW Z
+everyone EH V R IY W AH N
+am EY EH M
+am AE M
+am2 EY EH M
+are AA R
+are2 ER
+is AY Z
+is AY Z
+is AY Z
+is IH Z
+play P L EY
+use Y UW S
+use2 Y UW Z
+speak S P IY K
+know N OW
+study S T AH D IY
+go G OW
+come K AH M
+read R EH D
+read2 R IY D
+write R AY T
+do D UW
+watch W AA CH
+watch2 W AO CH
+have HH AE V
+has HH AE Z
+has2 HH AH Z
+like L AY K
+want W AA N T
+want2 W AO N T
+teach T IY CH
+meet M IY T
+see S IY
+look L UH K
+say S EY
+walk W AO K
+walk2 W AA K
+run R AH N
+sit S IH T
+wait W EY T
+get G EH T
+get2 G IH T
+leave L IY V
+drive D R AY V
+ride R AY D
+take T EY K
+swim S W IH M
+ski S K IY
+skate S K EY T
+open OW P AH N
+close K L OW S
+close2 K L OW Z
+cook K UH K
+clean K L IY N
+call K AO L
+help HH EH L P
+live L AY V
+live2 L IH V
+enjoy EH N JH OY
+enjoy2 IH N JH OY
+finish F IH N IH SH
+rain R EY N
+snow S N OW
+sunny S AH N IY
+cloudy K L AW D IY
+rainy R EY N IY
+get G EH T
+get2 G IH T
+look L UH K
+listen L IH S AH N
+bed B EH D
+careful K EH R F AH L
+good G UH D
+good2 G IH D
+nice N AY S
+nice2 N IY S
+big B IH G
+large L AA R JH
+small S M AO L
+new N UW
+new2 N Y UW
+old OW L D
+long L AO NG
+tall T AO L
+short SH AO R T
+cold K OW L D
+hot HH AA T
+beautiful B Y UW T AH F AH L
+happy HH AE P IY
+busy B IH Z IY
+easy IY Z IY
+hard HH AA R D
+this DH IH S
+this DH IH S
+that DH AE T
+that2 DH AH T
+these DH IY Z
+those DH OW Z
+some S AH M
+any EH N IY
+many M EH N IY
+much M AH CH
+fast F AE S T
+high HH AY
+great G R EY T
+interesting IH N T R AH S T IH NG
+interesting2 IH N T R IH S T IH NG
+interesting3 IH N T ER AH S T IH NG
+interesting4 IH N T ER IH S T IH NG
+favorite F EY V ER IH T
+favorite2 F EY V R AH T
+no N OW
+all AO L
+right R AY T
+left L EH F T
+last L AE S T
+last2 L AE S
+yes Y EH S
+no N OW
+not N AA T
+very V EH R IY
+too T UW
+so S OW
+well W IY L
+well2 W IH L
+well W EH L
+hard HH AA R D
+fast F AE S T
+quickly K W IH K L IY
+slowly S L OW L IY
+early ER L IY
+late L EY T
+here HH IY R
+there DH EH R
+home HH OW M
+usually Y UW ZH AH W AH L IY
+usually2 Y UW ZH AH L IY
+often AO F AH N
+often2 AO F T AH N
+sometimes S AH M T AY M Z
+now N AW
+then DH EH N
+today T AH D EY
+today2 T UW D EY
+yesterday Y EH S T ER D EY
+yesterday2 Y EH S T ER D IY
+o OW
+o OW
+o OW
+please P L IY Z
+a AH
+a2 EY
+a EY
+an AE N
+an2 AH N
+the DH AH
+the2 DH IY
+in IH N
+in IH N
+in2 IH N CH
+on AA N
+on2 AO N
+under AH N D ER
+by B AY
+to T UW
+to2 T IH
+to3 T AH
+at AE T
+from F R AH M
+of AH V
+with W IH DH
+with2 W IH TH
+for F AO R
+for2 F ER
+for3 F R ER
+about AH B AW T
+before B IH F AO R
+before2 B IY F AO R
+after AE F T ER
+like L AY K
+what W AH T
+what HH W AH T
+who HH UW
+whose HH UW Z
+which W IH CH
+which2 HH W IH CH
+when W EH N
+when2 HH W EH N
+when3 W IH N
+when4 HH W IH N
+where W EH R
+where2 HH W EH R
+how HH AW
+time T AY M
+day D EY
+old OW L D
+long L AO NG
+many M EH N IY
+do D UW
+does D OW Z
+does D AH Z
+does2 D IH Z
+did D IH D
+can K AE N
+can2 K AH N
+and AH N D
+and2 AE N D
+but B AH T
+or AO R
+or2 ER
+so S OW
+hello HH AH L OW
+hello2 HH EH L OW
+let L EH T
+years Y IH R Z
+years Y IH R Z
+years Y IH R Z
+years2 Y ER Z
+junior JH UW N Y ER
+high HH AY
+about AH B AW T
+lot L AA T
+lot2 L AO T
+out AW T
+over OW V ER
+girl G ER L
+boy B OY
+singer S IH NG ER
+child CH AY L D
+children CH IH L D R AH N
+book B UH K
+pencil P EH N S AH L
+letter L EH T ER
+table T EY B AH L
+song S AO NG
+thing TH IH NG
+plane P L EY N
+story S T AO R IY
+present P R EH Z AH N T
+present2 P R IY Z EH N T
+present3 P ER Z EH N T
+water W AO T ER
+money M AH N IY
+place P L EY S
+building B IH L D IH NG
+store S T AO R
+shop SH AA P
+college K AA L IH JH
+library L AY B R EH R IY
+church CH ER CH
+roof R UW F
+roof2 R UH F
+room R UW M
+river R IH V ER
+lake L EY K
+mountain M AW N T AH N
+street S T R IY T
+way W EY
+hour AW ER
+hour2 AW R
+language L AE NG G W AH JH
+language2 L AE NG G W IH JH
+game G EY M
+something S AH M TH IH NG
+anything EH N IY TH IH NG
+one W AH N
+one2 HH W AH N
+give G IH V
+find F AY N D
+bring B R IH NG
+practice P R AE K T AH S
+practice2 P R AE K T IH S
+learn L ER N
+shop SH AA P
+buy B AY
+catch K AE CH
+visit V IH Z IH T
+show SH OW
+stay S T EY
+stand S T AE N D
+think TH IH NG K
+make M EY K
+ask AE S K
+answer AE N S ER
+sound S AW N D
+tell T EH L
+hope HH OW P
+hear HH IY R
+sing S IH NG
+work W ER K
+drink D R IH NG K
+eat IY T
+wash W AA SH
+break B R EY K
+fall F AO L
+fall2 F AA L
+become B IH K AH M
+send S EH N D
+stop S T AA P
+turn T ER N
+love L AH V
+start S T AA R T
+build B IH L D
+take T EY K
+surprised S ER P R AY Z D
+surprised2 S AH P R AY Z D
+interested IH N T R AH S T IH D
+interested2 IH N T R IH S T IH D
+interested3 IH N T ER AH S T AH D
+interested4 IH N T ER IH S T IH D
+sick S IH K
+little L IH T AH L
+pretty P R IH T IY
+young Y AH NG
+wonderful W AH N D ER F AH L
+bad B AE D
+strong S T R AO NG
+sad S AE D
+kind K AY N D
+famous F EY M AH S
+popular P AA P Y AH L ER
+warm W AO R M
+difficult D IH F AH K AH L T
+important IH M P AO R T AH N T
+clean K L IY N
+foreign F AO R AH N
+foreign2 F AA R AH N
+other AH DH ER
+next N EH K S T
+next2 N EH K S
+right R AY T
+left L EH F T
+straight S T R EY T
+tomorrow T AH M AA R OW
+tomorrow2 T UW M AA R OW
+ago AH G OW
+just JH AH S T
+just2 JH IH S T
+still S T IH L
+before B IH F AO R
+before2 B IY F AO R
+once W AH N S
+always AO L W EY Z
+always2 AO L W IY Z
+also AO L S OW
+as EY Z
+as EY Z
+as EY Z
+as AE Z
+as2 EH Z
+much M AH CH
+near N IH R
+than DH AE N
+than2 DH AH N
+without W IH TH AW T
+without2 W IH DH AW T
+much M AH CH
+why W AY
+why2 HH W AY
+will W IH L
+will2 W AH L
+must M AH S T
+may M EY
+should SH UH D
+could K UH D
+won W AH N
+won2 W AA N
+must M AH S T
+shall SH AE L
+could K UH D
+going G OW IH NG
+going2 G OW IH N
+have HH AE V
+don D AA N
+if IH F
+when W EH N
+when2 HH W EH N
+when3 W IH N
+when4 HH W IH N
+because B IH K AO Z
+because2 B IH K AH Z
+because3 B IH K AA Z
+as EY Z
+as EY Z
+as EY Z
+as AE Z
+as2 EH Z
+that DH AE T
+that2 DH AH T
+there DH EH R
+how HH AW
+few F Y UW
+not N AA T
+better B EH T ER
+come K AH M
+speak S P IY K
+go G OW
+want W AA N T
+want2 W AO N T
+begin B IH G IH N
+start S T AA R T
+try T R AY
+enjoy EH N JH OY
+enjoy2 IH N JH OY
+finish F IH N IH SH
+stop S T AA P
+cup K AH P
+cake K EY K
+tea T IY
+leaf L IY F
+leaves L IY V Z
+wall W AO L
+eye AY
+hand HH AE N D
+top T AA P
+top2 T AO P
+work W ER K
+chance CH AE N S
+put P UH T
+sleep S L IY P
+lose L UW Z
+sell S EH L
+dance D AE N S
+glad G L AE D
+useful Y UW S F AH L
+ever EH V ER
+never N EH V ER
+already AO L R EH D IY
+already2 AO R EH D IY
+yet Y EH T
+after AE F T ER
+since S IH N S
+little L IH T AH L
+would W UH D
+glad G L AE D
+something S AH M TH IH NG
+ask AE S K
+tell T EH L
+want W AA N T
+want2 W AO N T
+brought B R AO T
+built B IH L T
+bought B AA T
+bought2 B AO T
+caught K AA T
+caught2 K AO T
+cut K AH T
+felt F EH L T
+found F AW N D
+had HH AE D
+heard HH ER D
+kept K EH P T
+kept2 K AE P T
+left L EH F T
+lent L EH N T
+let L EH T
+lost L AO S T
+made M EY D
+met M EH T
+put P UH T
+read R EH D
+read2 R IY D
+said S EH D
+sold S OW L D
+sent S EH N T
+sat S AE T
+slept S L EH P T
+spent S P EH N T
+stood S T UH D
+taught T AO T
+told T OW L D
+thought TH AO T
+understood AH N D ER S T UH D
+brought B R AO T
+built B IH L T
+bought B AA T
+bought2 B AO T
+caught K AA T
+caught2 K AO T
+cut K AH T
+felt F EH L T
+found F AW N D
+had HH AE D
+heard HH ER D
+kept K EH P T
+kept2 K AE P T
+left L EH F T
+lent L EH N T
+let L EH T
+lost L AO S T
+made M EY D
+met M EH T
+put P UH T
+read R EH D
+read2 R IY D
+said S EH D
+sold S OW L D
+sent S EH N T
+sat S AE T
+slept S L EH P T
+spent S P EH N T
+stood S T UH D
+taught T AO T
+told T OW L D
+thought TH AO T
+understood AH N D ER S T UH D
+was W AA Z
+was2 W AH Z
+became B IH K EY M
+became2 B IY K EY M
+began B IH G AE N
+began2 B IY G AE N
+blew B L UW
+broke B R OW K
+came K EY M
+did D IH D
+drew D R UW
+drank D R AE NG K
+drove D R OW V
+ate EY T
+fell F EH L
+flew F L UW
+forgot F ER G AA T
+forgot2 F AO R G AA T
+got G AA T
+gave G EY V
+went W EH N T
+grew G R UW
+knew N UW
+knew2 N Y UW
+rode R OW D
+rose R OW Z
+ran R AE N
+saw S AO
+showed SH OW D
+sang S AE NG
+spoke S P OW K
+swam S W AE M
+took T UH K
+threw TH R UW
+wrote R OW T
+been B IH N
+been2 B AH N
+become B IH K AH M
+begun B IH G AH N
+begun2 B EY G AH N
+blown B L OW N
+broken B R OW K AH N
+come K AH M
+done D AH N
+drawn D R AO N
+drunk D R AH NG K
+driven D R IH V AH N
+eaten IY T AH N
+fallen F AA L AH N
+flown F L OW N
+forgotten F ER G AA T AH N
+forgotten2 F AO R G AA T AH N
+gotten G AA T AH N
+gotten2 G AO T AH N
+given G IH V AH N
+given2 G IH V IH N
+gone G AO N
+grown G R OW N
+known N OW N
+ridden R IH D AH N
+risen R IH Z AH N
+run R AH N
+seen S IY N
+shown SH OW N
+sung S AH NG
+spoken S P OW K AH N
+swum S W AH M
+taken T EY K AH N
+thrown TH R OW N
+written R IH T AH N
+burnt B ER N T
+cost K AA S T
+cost2 K AO S T
+dealt D EH L T
+dug D AH G
+fought F AO T
+fit F IH T
+hung HH AH NG
+hit HH IH T
+held HH EH L D
+hurt HH ER T
+knit N IH T
+laid L EY D
+led L EH D
+learnt L ER N T
+lit L IH T
+meant M EH N T
+paid P EY D
+quit K W IH T
+set S EH T
+shone SH OW N
+shot SH AA T
+shut SH AH T
+slid S L IH D
+smelt S M EH L T
+sped S P EH D
+spread S P R EH D
+stuck S T AH K
+struck S T R AH K
+wept W EH P T
+won W AH N
+won2 W AA N
+burnt B ER N T
+cost K AA S T
+cost2 K AO S T
+dealt D EH L T
+dug D AH G
+fought F AO T
+fit F IH T
+hung HH AH NG
+hit HH IH T
+held HH EH L D
+hurt HH ER T
+knit N IH T
+laid L EY D
+led L EH D
+learnt L ER N T
+lit L IH T
+paid P EY D
+quit K W IH T
+set S EH T
+shone SH OW N
+shot SH AA T
+shut SH AH T
+slid S L IH D
+smelt S M EH L T
+sped S P EH D
+spread S P R EH D
+stuck S T AH K
+struck S T R AH K
+wept W EH P T
+won W AH N
+won2 W AA N
+awoke AH W OW K
+bore B AO R
+bit B IH T
+chose CH OW Z
+forgave F ER G EY V
+hid HH IH D
+lay L EY
+mistook M IH S T UH K
+proved P R UW V D
+rang R AE NG
+shook SH UH K
+sank S AE NG K
+sprang S P R AE NG
+stole S T OW L
+strove S T R OW V
+woke W OW K
+wore W AO R
+born B AO R N
+bitten B IH T AH N
+chosen CH OW Z AH N
+forgiven F ER G IH V AH N
+forgiven2 F AO R G IH V AH N
+hidden HH IH D AH N
+lain L EY N
+mistaken M IH S T EY K AH N
+proven P R UW V AH N
+rung R AH NG
+shaken SH EY K AH N
+sunk S AH NG K
+sprung S P R AH NG
+stolen S T OW L AH N
+striven S T R IH V AH N
+woken W OW K AH N
+worn W AO R N
+

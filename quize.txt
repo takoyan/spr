@@ -1,0 +1,26 @@
+what is this event,Robocup
+what're your name,Rione
+what day is it today,september five
+how are you,I'm fine
+what are you doing now,I'm working now
+can you help me,yes of cource
+do you like Japanese,yes
+did you sleep last night,no
+do you play video games,yes
+how is the weather today,it's sunny
+can you play baseball,no
+where were you born,I'm from japan
+do you have time now,yes I'm free
+what are interested in,I'm interested in human
+have you ever been to japan,yes I'm from japan
+how did you come here,by the train
+what is your team's home city?,My team's home city is Kusatsu city.
+what color is the jam?,It is red.
+what is the taste of jam?,It is sweet.
+how many objects are in the bookcase?,Three.
+which is the lightest snack?,It is the biscuit.
+how many chairs are in the kitchen?,There are four chairs in the kitchen.
+where is located the desk?,It is in the kitchen.
+who invented the C programing language?,Dennis.
+what is the highest mountain in Japan?,Mount Fuji.
+which city are we in?,Kusatsu.
