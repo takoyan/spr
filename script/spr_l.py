@@ -13,9 +13,11 @@ import os
 import pyaudio
 from scipy import fromstring, int16
 
-
+#rate = rospy.Rate(10)
 
 def callback(data):
+    rospy.init_node('listener', anonymous=True)
+    rate = rospy.Rate(10)
     if(data.data != ''):
         data=re.findall(r'[a-z]*\S', data.data)
         data=np.array(data)
@@ -32,26 +34,43 @@ def callback(data):
             if(score>max and score>=0.5):
                 max=score
                 ans=a
-            if ans is not 0:
-                print ans
-                print('\n')
-                os.system('espeak "{}" -s 135'.format(ans))
-            else:
-                print'答えはみつかりません'
-                os.system('espeak "no answer"')
-                print('\n')
+        if ans is not 0:
+            #stop_speech=rospy.Publisher('stop_speech', String, queue_size=10)
+            #stop_speech.publish('stop_speech')
+            #rospy.Subscriber('please_speak', String, please_speak)
+            print ans
+            print('\n')
+            os.system('espeak "{}" -s 135'.format(ans))
+            restart_speech=rospy.Publisher('restart_speech', String, queue_size=10)
+            rospy.sleep(10)#適宜調整
+            restart_speech.publish('restart')
 
-       # except KeyboardInterrupt:
-            #break
+
+        else:
+            #stop_speech=rospy.Publisher('stop_speech', String, queue_size=10)
+            #stop_speech.publish('stop_speech')
+            print'答えはみつかりません'
+            os.system('espeak "no answer"')
+            print('\n')
+            restart_speech=rospy.Publisher('restart_speech', String, queue_size=10)
+            rospy.sleep(10)
+            restart_speech.publish('restart')
+
+
+            
+
         
 
 def listener():
     rospy.init_node('listener', anonymous=True)
-    rospy.Subscriber('/spr_state2', String, callback)
-
+    rospy.Subscriber('spr', String, callback)
     #spin() simply keeps python from exiting until this node is stopped
     rospy.spin()
 
+def please_speak(data):
+   return  
+
+    
     
 qa_dict={}
 que=[]
