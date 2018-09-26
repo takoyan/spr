@@ -1,0 +1,4 @@
+<launch>
+<node pkg="spr" name="publisher" type="spr_p.py"/>
+<node pkg="spr" name="subscliber" type="spr_l.py"/>
+</launch>

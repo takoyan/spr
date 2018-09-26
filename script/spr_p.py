@@ -11,8 +11,13 @@ import numpy as np
 from time import sleep
 import pyaudio
 from scipy import fromstring, int16
+from pydub import AudioSegment
+from pydub.playback import play
 
 model_path=get_model_path()    
+spr_path=os.path.dirname(os.path.abspath(__file__))
+signal = spr_path +"/sound.wav"
+sound =AudioSegment.from_file(signal, 'wav')
 
 def talker():
     rospy.init_node('talker', anonymous=True)
@@ -30,6 +35,7 @@ def talker():
                     pub = rospy.Publisher('spr', String, queue_size=10)
                     rospy.init_node('talker', anonymous=True)
                     #while not rospy.is_shutdown():
+                    play(sound)
                     print('Start!!!!!!!')
                     while(1):
                         #input=stream.read(CHUNK)
